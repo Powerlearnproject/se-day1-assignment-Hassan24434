@@ -4,9 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-# Explain what software engineering is and discuss its importance in the technology industry.
-
-Software Engineering is a branch of engineering that focuses on the design, development, testing, and maintenance of software systems. It applies engineering principles to software creation, ensuring that the resulting software is reliable, efficient, scalable, and maintainable. Software engineering involves a systematic approach to problem-solving, where the software development process is broken down into distinct phases such as requirement analysis, design, implementation, testing, deployment, and maintenance.
+ Explain what software engineering is and discuss its importance in the technology industry? Software Engineering is a branch of engineering that focuses on the design, development, testing, and maintenance of software systems. It applies engineering principles to software creation, ensuring that the resulting software is reliable, efficient, scalable, and maintainable. Software engineering involves a systematic approach to problem-solving, where the software development process is broken down into distinct phases such as requirement analysis, design, implementation, testing, deployment, and maintenance.
 Importance of Software Engineering in the Technology Industry:
 Quality Assurance: By applying engineering principles, software engineers ensure that the software is of high quality, reducing the likelihood of bugs and errors that can lead to system failures.
 Scalability and Performance: Software engineering practices help create systems that can scale to meet growing user demands and perform efficiently under different conditions.
